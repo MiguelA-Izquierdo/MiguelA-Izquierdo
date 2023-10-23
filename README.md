@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hi+there!+I'm+Miguel Ángel;I'm+a+Full-Stack+Developer+)]
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hi+there!+I'm+Miguel Ángel;I'm+a+Full-Stack+Developer+)](https://git.io/typing-svg)
 Welcome to my GitHub space. I'm Miguel Ángel, and I have a strong affection for programming and crafting technical solutions. My skills cover both Front-end and Back-end development, and my focus is on being innovative and creative.
 
 I'm always on the lookout for fresh ways to approach challenges, and I'm eager to explore new ideas and possibilities in the software development world. This is my place to share projects, collaborate with fellow developers, and keep on learning. I hope you enjoy checking out my work!
